@@ -6,10 +6,11 @@
 
 // simple function 
 function dataleaao(){
+    console.log('Data returned by simple function ');
     return 'Data returned by simple function ';
 }
 console.log(dataleaao());
 
 // async function
-async function dataleaao2()
+// async function dataleaao2()
 
